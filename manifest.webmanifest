@@ -1,0 +1,17 @@
+{
+  "name": "Lammersen Wandeling+",
+  "short_name": "Lammersen",
+  "description": "Mobiele GPS-wandeling voor de Lammersen Wandeling+.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fbf7ef",
+  "theme_color": "#0f6b4f",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
