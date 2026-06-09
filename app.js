@@ -5,43 +5,43 @@
     {
       id: 1,
       title: "Bewegend Object",
-      lat: 52.16264777185921,
-      lng: 6.739713970242445,
-      radius: 10,
-      task: "Maak een filmpje van iets dat beweegt zonder mens. Stuur het filmpje via WhatsApp."
+      lat: 51.37522918855159,
+      lng: 5.659452233159168,
+      radius: 15,
+      task: "Maak een filmpje van iets dat beweegt zonder invloed van de mens. Stuur het filmpje via WhatsApp."
     },
     {
       id: 2,
       title: "Mash-up Challenge",
-      lat: 52.16350028078444,
-      lng: 6.740502696627165,
-      radius: 10,
-      task: "Luister naar de mash-up met 52 nummers en schrijf zoveel mogelijk liedjes of artiesten op.",
+      lat: 51.36818407375268,
+      lng: 5.66592723314897,
+      radius: 15,
+      task: "Speel het af, of downoad en luister naar de mash-up met 52 nummers en schrijf zoveel mogelijk liedjes of artiesten op. Als je klaar bent maak een foto van het formulier en stuur het via WhatsApp.",
       audio: "./assets/FamilieWeekend-Wandeling.mp3"
     },
     {
       id: 3,
       title: "Toren Bouwen",
-      lat: 52.16374146005949,
-      lng: 6.73973209773058,
-      radius: 10,
+      lat: 51.36864428285259,
+      lng: 5.657629361509822,
+      radius: 15,
       task: "Bouw een toren die zelfstandig kan blijven staan met materialen die je hier vindt. Maximaal 2 minuten. Film het resultaat en stuur het via WhatsApp."
     },
     {
       id: 4,
       title: "Rebus+",
-      lat: 52.1631707083504,
-      lng: 6.7388732994103195,
-      radius: 10,
+      lat: 51.37303769137016,
+      lng: 5.650841008907593,
+      radius: 15,
       task: "Los de rebus op en stuur het antwoord via WhatsApp.",
       image: "./assets/RebusPlus.jpg"
     },
     {
       id: 5,
       title: "Sprongfoto",
-      lat: 52.162502916195834,
-      lng: 6.7382940787492585,
-      radius: 10,
+      lat: 51.37592127191299,
+      lng: 5.64899993932673,
+      radius: 15,
       task: "Maak de perfecte sprongfoto waarbij iedereen met de voeten van de grond is. Verstuur de foto via WhatsApp."
     }
   ];
